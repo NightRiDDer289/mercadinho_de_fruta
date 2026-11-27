@@ -1,9 +1,13 @@
-nome = "Jose da silva"
-idade = 25
+# ==========================================
+#   MERCADINHO DE FRUTAS
+# ==========================================
 
-if idade >= 18:
-    print("você é maior de idade")
-else:
-    print("espere")
+# ------------------------------------------
+# 1. VARIÁVEIS E TIPOS
 
-print(f"olá {nome} , você tem {idade} anos")
+nome_loja = "Mercadinho de fruta"
+ano_abertura =  2020
+loja_aberta = True
+taxa_entrega = 5.2
+
+
