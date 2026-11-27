@@ -24,3 +24,11 @@ carrinho = ["maça","uva","pera","banana"]
 
 # 3. Criar o array de preços e o array de estoque e criar uma função de exibir as frutas (vitor)
 
+preco = [5.00, 15.00, 7.00, 10.00]
+estoque = [5, 2, 5, 3]
+
+def mostrar_frutas():
+    for i in range(len(carrinho)):
+        print(carrinho[i])
+
+mostrar_frutas()
