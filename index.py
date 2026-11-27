@@ -17,3 +17,10 @@ print(type(nome_loja))
 print(type(ano_abertura))
 print(type(loja_aberta))
 print(type(taxa_entrega))
+
+# 2 - carrinho de fruta (gabriel)
+
+carrinho = ["maça","uva","pera","banana"]
+
+# 3. Criar o array de preços e o array de estoque e criar uma função de exibir as frutas (vitor)
+
